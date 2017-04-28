@@ -3,9 +3,13 @@
 README:
 
 1º Download, export into eclipse/netbeans
+
 2º Run as Maven Build... 
+
 3º Update Maven Project
+
 4º Add the war's project into tom cat server 7.0
+
 5º Our BD were created using MySQL:
 
 Create table SQL
