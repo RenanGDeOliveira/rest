@@ -2,7 +2,7 @@
 
 README:
 
-1º Download, export into eclipse/netbeans
+1º Download, import into eclipse/netbeans
 
 2º Run as Maven Build... 
 
