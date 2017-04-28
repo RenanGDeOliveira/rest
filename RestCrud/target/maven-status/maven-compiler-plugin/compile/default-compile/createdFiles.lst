@@ -1,0 +1,4 @@
+br\com\restcrud\model\User.class
+br\com\restcrud\dao\UserDAO.class
+br\com\restcrud\controller\UserController.class
+br\com\restcrud\service\UserService.class
